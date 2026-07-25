@@ -1,0 +1,32 @@
+# Python cache and local environment files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Large datasets and downloaded archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+final project/TikTokDataset.zip
+final project/facial_expression_dataset.zip
+
+# Large model/checkpoint files
+*.pt
+*.pth
+*.onnx
+*.h5
+*.pkl
+final project/lbfmodel.yaml
+
+# Video/media datasets or demos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Local editor metadata
+.vscode/
